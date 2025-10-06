@@ -5,7 +5,7 @@ export default definePlugin({
     description: "Provide a plugin description.",
     id: "my-plugin",
     version: "1.0.0",
-    onLoad: (ctx) => {
+    onLoad: async (ctx) => {
         // Your code here
     }
 })
