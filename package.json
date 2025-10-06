@@ -16,6 +16,6 @@
     "vite": "^7.1.6"
   },
   "dependencies": {
-    "@readit-mod/plugins": "^1.0.0"
+    "@readit-mod/plugins": "latest"
   }
 }
